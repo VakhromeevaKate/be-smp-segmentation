@@ -1,7 +1,0 @@
-image,mask
-food/valid/img/.DS_Store,food/valid/masks_machine/.DS_Store.png
-food/valid/img/f773a153-449c-4e24-b2ae-10d14d788151.jpg,food/valid/masks_machine/f773a153-449c-4e24-b2ae-10d14d788151.png
-food/valid/img/fb925f90-ca04-4f72-96e0-27ac451241bc.jpg,food/valid/masks_machine/fb925f90-ca04-4f72-96e0-27ac451241bc.png
-food/valid/img/fbcafded-3fe3-4cd8-97ee-d652c52320a4.jpg,food/valid/masks_machine/fbcafded-3fe3-4cd8-97ee-d652c52320a4.png
-food/valid/img/fdacb09f-0eab-4b79-b765-5a7d3637ae58.jpg,food/valid/masks_machine/fdacb09f-0eab-4b79-b765-5a7d3637ae58.png
-food/valid/img/ff958fbf-db3c-4de2-b627-7a8e0bdbb774.jpg,food/valid/masks_machine/ff958fbf-db3c-4de2-b627-7a8e0bdbb774.png
